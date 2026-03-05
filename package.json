@@ -17,8 +17,5 @@
     "babel-jest": "^29.7.0",
     "jest": "^29.7.0",
     "husky": "^9.1.7"
-  },
-  "peerDependencies": {
-    "tether-dev-docs": "0.0.x"
   }
 }

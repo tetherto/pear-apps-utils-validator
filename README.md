@@ -63,6 +63,12 @@ console.log(arrayValidator.validate(['valid', 'a']));
 
 This package has no production dependencies.
 
+## Depended Submodules
+
+The following sibling submodules must be present in the workspace (they are not declared as npm dependencies):
+
+- [`tether-dev-docs`](../tether-dev-docs)
+
 ## Related Projects
 
 - [pearpass-app-mobile](https://github.com/tetherto/pearpass-app-mobile) - A mobile app for PearPass, a password manager
