@@ -1,5 +1,5 @@
 {
-  "name": "pear-apps-utils-validator",
+  "name": "@tetherto/pear-apps-utils-validator",
   "version": "0.0.10",
   "type": "module",
   "description": "A library to validate user input",
