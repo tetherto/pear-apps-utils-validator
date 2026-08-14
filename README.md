@@ -1,3 +1,6 @@
+> [!WARNING]
+> 🍐 PearPass is currently paused from active development, so please use at your own caution until further notice.
+
 # pear-apps-utils-validator
 
 A lightweight and flexible JavaScript library for validating. It provides a simple API to define validation rules for various data types, including strings, numbers, arrays, and objects.
